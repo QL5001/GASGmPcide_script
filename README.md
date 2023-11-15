@@ -1,1 +1,1 @@
-This repository contains computer codes for the draft of "Dihydrothiazolo Ring-fused 2-Pyridone Antimicrobial Compounds Prevent Biofilm Formation and Inhibit M Protein and SpeB Protease Expressions to Effectively Treat Streptococcus pyogenes Skin Infection".
+This repository contains computer codes for the draft of "Dihydrothiazolo Ring-fused 2-Pyridone Antimicrobial Compounds Effectively Treat Streptococcus pyogenes Skin Infection".
