@@ -5,7 +5,7 @@ library(mixOmics)
 library(dplyr)
 library(stats)
 
-RS_GP1 = read.csv(file = file.choose(), sep = ",", header = TRUE, stringsAsFactors = FALSE)    #open file "group_0.4_7-group_0.4_d_Differential_Expression_PCA" consisting of the differential expression profiel of S. pyogenes HSC5 strain under the treatment of antimicrobial compounds
+RS_GP1 = read.csv(file = file.choose(), sep = ",", header = TRUE, stringsAsFactors = FALSE)    #open file "Differential_Expression_PCA" consisting of the differential expression profiel of S. pyogenes HSC5 strain under the treatment of antimicrobial compounds
 
 X = RS_GP1[, 1:1764]  
 X_mean = apply(X, 2, mean)
