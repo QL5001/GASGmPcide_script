@@ -1,1 +1,1 @@
-This repository contains computer codes for the draft of "Dihydrothiazolo Ring-fused 2-Pyridone Antimicrobial Compounds Effectively Treat Streptococcus pyogenes Skin and Soft Tissue Infection".
+This repository contains computer codes for the paper of "Dihydrothiazolo ring-fused 2-pyridone antimicrobial compounds treat Streptococcus pyogenes skin and soft tissue infection" (10.1126/sciadv.adn7979). 
